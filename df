@@ -1,0 +1,29 @@
+[33mcommit 312800a5519754996854db0239cc0b34eb115fa3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Tue Jul 31 14:13:14 2018 +0800
+
+    git tracks changes
+
+[33mcommit 6e470b83a936ceb8669dff29c00c61ece2261d20[m
+Author: Your Name <you@example.com>
+Date:   Tue Jul 31 14:10:01 2018 +0800
+
+    understand how stage works
+
+[33mcommit f11b6cd2629cc93338aa690b45f4e4bf79c918ba[m
+Author: Your Name <you@example.com>
+Date:   Tue Jul 31 13:54:00 2018 +0800
+
+    append GPL
+
+[33mcommit d1f9ce2ffdc121c1fbf43ceb2dcb20c36eaf4073[m
+Author: Your Name <you@example.com>
+Date:   Tue Jul 31 13:52:41 2018 +0800
+
+    add distributed
+
+[33mcommit 1324804aab8ccf98fc929dbd06d0435c4d593280[m
+Author: Your Name <you@example.com>
+Date:   Tue Jul 31 13:49:25 2018 +0800
+
+    wrote a readme file
